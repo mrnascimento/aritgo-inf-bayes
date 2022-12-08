@@ -1,1 +1,2 @@
-# aritgo-inf-bayes
+# Bayesian Inferenece on e-retailer data
+The present article is the final work for the Bayesian Inference subject at IME-USP H2/22. On this repo you can find the final version of the article as well as the codes developed in order to perform the analysis.
